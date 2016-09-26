@@ -1,2 +1,2 @@
-# android
-Beyond HB 1079 Android App
+# UndocuScholar Android App
+Android application support coming soon...
